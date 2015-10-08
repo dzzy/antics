@@ -1,2 +1,3 @@
 # antics
-my first repo
+my first repo - not really sure what's going to go here yet.
+something good!
